@@ -16,3 +16,9 @@ części brzmi, czy zmienność stóp zwrotu spółek ma swoje podłoże w zmian
 | "Raport do projektu.pdf" | Plik PDF zawierający podsumowanie wszystkich kroków (cel, metoda, wyniki, wniosek).
 | "wig_d.csv" | Plik CSV zawierający dane historyczne benchmarku WIG, mającym być przyjętym całym rynkiem.
 | "analiza_wskaźnika_beta.ipynb" | Cały kod, w którym była przeprowadzana analiza, napisany w Jupyter Notebook.
+
+# Najważniejsze punkty w projekcie
+
+ - Import danych z pliku csv oraz pobranie cen historycznych wszystkich 20 spółek przy pomocy biblioteki YahooFinance,
+ - Obliczenie wartości Beta dla każdej spółki względem przyjętego benchmarku oraz współczynnika determinacji,
+ - Podział spółek ze względu na wartość Beta (<=1 lub >1). 
