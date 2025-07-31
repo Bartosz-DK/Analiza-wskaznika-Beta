@@ -14,5 +14,5 @@ części brzmi, czy zmienność stóp zwrotu spółek ma swoje podłoże w zmian
 | Nazwa pliku | Opis |
 | :-------- | :------------------------- |
 | "Raport do projektu.pdf" | Plik PDF zawierający podsumowanie wszystkich kroków (cel, metoda, wyniki, wniosek).
-| "wig_d.csv" | Plik CSV zawierający dane historyczne benchmarku.
+| "wig_d.csv" | Plik CSV zawierający dane historyczne benchmarku WIG, mającym być przyjętym całym rynkiem.
 | "analiza_wskaźnika_beta.ipynb" | Cały kod, w którym była przeprowadzana analiza, napisany w Jupyter Notebook.
